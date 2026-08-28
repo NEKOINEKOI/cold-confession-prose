@@ -1,6 +1,6 @@
-# sun-ge-storytelling
+# sun-ge-storytelling-method
 
-孙ge故事写法——把一个故事写成孙哥那种讲法。故事可以是已经写好的，也可以还只是个念头。
+孙哥传播学大师故事写作方法——把一个故事写成孙哥那种讲法。故事可以是已经写好的，也可以还只是个念头。
 
 数字代替形容词，留白代替抒情，最疼的地方一笔带过，结尾不点题。
 
@@ -39,7 +39,7 @@
 | 你有的 | 说一句 |
 |---|---|
 | 写好的经历 / 成稿 | "用孙哥那种语气改一下" |
-| 大纲 / 片段 / 要点 | "用孙ge故事写法帮我写成完整的故事" |
+| 大纲 / 片段 / 要点 | "用孙哥故事写法帮我写成完整的故事" |
 | 只有一个想法 | "我想写个关于 XX 的故事，用孙哥那种讲法" |
 
 **素材乱没关系。** 时间线乱、想到哪写到哪、有的地方一句话有的地方一大段——它会先把碎片拆开，按起承转合重排成骨架，再换讲法。
@@ -59,7 +59,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/NEKOINEKOI/sun-ge-storytelling ~/.workbuddy/skills/sun-ge-storytelling
+git clone https://github.com/NEKOINEKOI/sun-ge-storytelling-method ~/.workbuddy/skills/sun-ge-storytelling-method
 ```
 
 ## 它不会做的事
